@@ -1,6 +1,18 @@
-# games
+# Games 
 
-### soon files are uploaded if you want all project now then email to :    munny165@hotmail.com
-### all file uploaded under 1 hour
+```
+# Games designed on JavaScript { 
 
-### Thank You
+     .typus {
+                 A typing speed test game !
+                }
+     .bonny_tail {
+                 A bonny snake !
+                }
+     .Look_alike {
+                 A brain test game !
+                 }
+}
+```
+
+### By: Munny Kumar

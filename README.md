@@ -1,20 +1,14 @@
 # Games 
 
-```
-# Games designed on JavaScript { 
+```node
+(function () {
 
-     .typus {
-             A typing speed test game ;
-             }
-             
-     .bonny_tail {
-                 A bonny snake ;
-                 }
-                 
-     .Look_alike {
-                 A brain test game ;
-                 }
-}
+  console.log( typus + " A typing speed test game " );
+
+  console.log( bonny_tail + " A bonny snake " );
+
+  console.log( Look_alike + " A brain test game " );
+})();
 ```
 
 ### By: Munny Kumar

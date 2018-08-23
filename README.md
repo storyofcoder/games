@@ -8,6 +8,7 @@
   console.log( bonny_tail + " A bonny snake " );
 
   console.log( Look_alike + " A brain test game " );
+  
 })();
 ```
 

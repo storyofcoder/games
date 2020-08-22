@@ -14,4 +14,4 @@
 
 ![Games](https://github.com/kirtichouhan/games/blob/master/game.jpg?raw=true)
 
-### By: Kirti
+### By: Munny
